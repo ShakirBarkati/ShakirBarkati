@@ -23,14 +23,16 @@
       <td align="center" width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80" alt="React">
         <p>React</p>
-      </td>
-      <td align="center" width="200">
-        <img src="[https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9boakGt1srdb-Z5Zp7lz6LbkWo6sA_elFA&s)" alt="MySQL Logo" width="80">
-        <p>MySQL</p>
-      </td>
+      </td>     
       <td align="center" width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="80" alt="PHP">
         <p>PHP</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.png" width="80" alt="MySQL">
+        <p>MySQL</p>
       </td>
     </tr>
   </table>
