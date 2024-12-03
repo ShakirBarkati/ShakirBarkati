@@ -8,7 +8,7 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
 
   <td align='center' width="200">
@@ -28,7 +28,7 @@
  
 <tr>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
+        
     </td>
     <td align='center'>
         <img src="https://www.linkpicture.com/q/0837a5a-pinecone_logo_black.png" width="80">
