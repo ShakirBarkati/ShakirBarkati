@@ -25,7 +25,7 @@
         <p>React</p>
       </td>
       <td align="center" width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.png" alt="MySQL Logo" width="80">
+        <img src="[https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN9boakGt1srdb-Z5Zp7lz6LbkWo6sA_elFA&s)" alt="MySQL Logo" width="80">
         <p>MySQL</p>
       </td>
       <td align="center" width="200">
