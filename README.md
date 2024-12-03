@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td align="center" width="200">
-        <img src="[https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.png](https://e7.pngegg.com/pngimages/697/162/png-clipart-mysql-mysql-thumbnail.png)" width="80" alt="MySQL">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MySQL_logo.svg" width="80" alt="MySQL">
         <p>MySQL</p>
       </td>
     </tr>
