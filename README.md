@@ -1,50 +1,33 @@
 <body>
   <div align="center">
-    <h1> Hi there, This is Shakir Barkati👋<a href="https://www.youtube.com/watch?v=5zloFgmG3UE&list=PLKDx0iHXzgE1wurwt_Yvqpj1sa1_P1D9w"></h1>
+    <h1> Hi there, This is Shakir Barkati 👋</h1>
+    <a href="https://www.youtube.com/watch?v=5zloFgmG3UE&list=PLKDx0iHXzgE1wurwt_Yvqpj1sa1_P1D9w">Check out my YouTube Playlist!</a>
   </div>
 
-<h2>Tech Stack</h2>
+  <h2>Tech Stack</h2>
 
-<table width="100">
-<tr>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
-    </td>
-
-  <td align='center' width="200">
-       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.linkpicture.com/q/0f04f0b2-a39a-4621-8bb5-1f5f7bf9bf10_mq.jpg">
-    </td>
- 
-</tr>
- 
-<tr>
-    <td align='center'>
-        
-    </td>
-    <td align='center'>
-        <img src="https://www.linkpicture.com/q/0837a5a-pinecone_logo_black.png" width="80">
-    </td>
- <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
-    </td>
-     <td align='center'>
-        <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
-    </td>
-       <td align='center'>
-        <img src="https://www.linkpicture.com/q/1681038628chatgpt-icon-logo.png">
-    </td>
-</tr>
- 
-
-    
-</table>
-</p>
+  <table width="100">
+    <tr>
+      <td align="center" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="80" alt="HTML">
+        <p>HTML</p>
+      </td>
+      <td align="center" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="80" alt="CSS">
+        <p>CSS</p>
+      </td>
+      <td align="center" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" alt="JavaScript">
+        <p>JavaScript</p>
+      </td>
+      <td align="center" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="80" alt="React">
+        <p>React</p>
+      </td>
+      <td align="center" width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="80" alt="PHP">
+        <p>PHP</p>
+      </td>
+    </tr>
+  </table>
+</body>
