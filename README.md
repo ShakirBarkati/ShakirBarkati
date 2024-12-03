@@ -29,11 +29,6 @@
         <p>PHP</p>
       </td>
     </tr>
-    <tr>
-      <td align="center" width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/MySQL_logo.svg" width="80" alt="MySQL">
-        <p>MySQL</p>
-      </td>
-    </tr>
+    
   </table>
 </body>
